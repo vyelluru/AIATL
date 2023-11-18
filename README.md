@@ -1,18 +1,18 @@
-AI-Powered Retail Dashboard
-Project Overview
+# AI-Powered Retail Dashboard
+# Project Overview
 This project is focused on developing an AI-powered dashboard for retail store optimization. It integrates wearable technology to collect data on customer interactions within a retail environment. The key components include a microphone for capturing customer feedback, RFID for tracking product interactions, and a comprehensive dashboard built with Streamlit for visualizing and analyzing the data.
 
-Features
+# Features
 Wearable Technology: Equipped with a microphone and RFID to collect in-store customer data.
 Data Collection System: Captures and processes speech data, RFID interactions, and customer walking patterns.
 AI Dashboard: Built with Streamlit, providing insights through data visualization tools and a supportive chatbot.
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+# Prerequisites
 List the software and libraries needed to run the project, e.g., Python, Streamlit, Vertex AI SDK.
 
-Installation
+# Installation
 Provide step-by-step series of examples that tell you how to get a development environment running.
 
 bash
@@ -31,24 +31,24 @@ python -m unittest discover
 Deployment
 Add additional notes about how to deploy this on a live system.
 
-Built With
+# Built With
 Streamlit - The web framework used for the dashboard
 Vertex AI - AI and machine learning platform
 Firebase - Database and hosting services
 Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Versioning
+# Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-Authors
+# Authors
 Your Name - Initial work - YourUsername
 See also the list of contributors who participated in this project.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
+# Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
 etc
