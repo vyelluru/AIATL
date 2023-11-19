@@ -3,3 +3,4 @@ pandas
 plotly.express
 matplotlib.pyplot
 numpy
+hugchat==0.0.8
